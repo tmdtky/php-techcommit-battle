@@ -1,1 +1,1 @@
-# php_techcommit_fizzbuzz_03
+# php-techcommit-check-prime-number
