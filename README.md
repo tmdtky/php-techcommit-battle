@@ -1,1 +1,1 @@
-# php-techcommit-check-prime-number
+# php-techcommit-rock-paper-scissors
