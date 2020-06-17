@@ -1,1 +1,1 @@
-# php-techcommit-rock-paper-scissors
+# php-techcommit-battle
